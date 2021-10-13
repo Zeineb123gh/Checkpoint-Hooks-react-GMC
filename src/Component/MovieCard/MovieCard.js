@@ -30,11 +30,9 @@ const MovieCard = ({
         </div>
         <div className="card_right__review">
           <p>{description}</p>
-          <a href="https://www.imdb.com/?ref_=nv_home">Read More</a>
+         
         </div>
-        <div className="card_right__button">
-          <a href="https://www.imdb.com/?ref_=nv_home">WATCH TRAILER</a>
-        </div>
+       
       </div>
     </div>
   );
